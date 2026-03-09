@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lucas Germer
 
-<!--
-**Lucasgermer/lucasgermer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on desktop applications and business automation systems.
 
-Here are some ideas to get you started:
+I build practical software designed to solve real operational problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Technologies
+
+- Python
+- PyQt
+- SQL
+- Desktop Applications
+- Automation Systems
+
+## Projects
+
+- Vehicle Yard Management System
+- Vehicle Appointment Scheduler
+
+## Contact
+
+LinkedIn: (add later)

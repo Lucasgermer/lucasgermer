@@ -19,4 +19,4 @@ I build practical software designed to solve real operational problems.
 
 ## Contact
 
-LinkedIn: (add later)
+LinkedIn: https://www.linkedin.com/in/lucas-germer-bb8a27224/
